@@ -9,7 +9,7 @@ You can visit here: [PyTutor](http://pytutor.seamile.cn/)
 ## Usage
 
 ```shell
-git pull https://github.com/seamile/PyTutor.git
+git pull https://github.com/ipflsfiles/PyTutor.git
 cd PyTutor
 docker build -t pytutor:latest .
 docker run -d -p 8003:8003 pytutor
